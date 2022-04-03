@@ -1,0 +1,4 @@
+io/flutter/plugins/GeneratedPluginRegistrant.java
+ io.flutter.plugins.GeneratedPluginRegistrant
+com/codemobiles/cm_state_demo/BuildConfig.java
+ com.codemobiles.cm_state_demo.BuildConfig
